@@ -1,4 +1,9 @@
 
+import { gsap } from 'gsap';
+import { ScrollSmoother } from 'gsap/ScrollSmoother';
+
+console.log(gsap);
+console.log(ScrollSmoother);
 
 
 import type { Metadata } from "next";
